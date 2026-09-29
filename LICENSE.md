@@ -17,9 +17,9 @@ It is prohibited to set a fixed price for downloading, installing, or running th
 Author's Right: The original author of the Program has the right, at their personal discretion, to implement channels for receiving voluntary donations within the project (donation boxes, links, payment details).
 User Freedom: Financial support for authors is exclusively voluntary for all categories of users (including individuals and legal entities). No functions of the Program may be blocked due to the absence of a donation. The amount of the contribution is determined by the user at their own discretion.
 
-3. PROHIBITION OF COMMERCIALIZATION AND ADVERTISING
+3. PROHIBITION Sales and advertising 
 
-It is prohibited to sell this Program or products built upon it.
+It is prohibited to sell this Program GSL or products built upon it.
 It is prohibited to embed advertising banners, commercial advertising trackers, or paid subscriptions into the Program.
 
 4. INHERITANCE AND PROTECTION OF AUTHOR SUPPORT CHANNELS
